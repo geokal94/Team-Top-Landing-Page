@@ -1,0 +1,19 @@
+{
+  "name": "team-top-landing-page",
+  "version": "1.0.0",
+  "description": "Team Top is a demo project to showcase the use of a startup landing page to highlight a new business idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geokal94/Team-Top-Landing-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geokal94/Team-Top-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/geokal94/Team-Top-Landing-Page#readme"
+}
